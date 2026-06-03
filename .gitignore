@@ -4,4 +4,6 @@ __pycache__/
 venv/
 .env
 
-models/*.pkl
+.streamlit/
+
+.DS_Store
